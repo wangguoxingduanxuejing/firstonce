@@ -1,0 +1,688 @@
+[2018-12-23T09:28:06.011] [INFO] runtime - connection as id 186
+[2018-12-23T09:29:20.851] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:29:26.609] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:30:21.861] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:30:26.397] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:32:16.121] [INFO] runtime - connection as id 188
+[2018-12-23T09:39:42.944] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:39:46.465] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:39:47.336] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:39:48.088] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:39:54.137] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:45:16.733] [INFO] runtime - connection as id 190
+[2018-12-23T09:45:27.858] [INFO] runtime - connection as id 191
+[2018-12-23T09:45:48.297] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:46:00.039] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T09:46:04.754] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:05:55.713] [INFO] runtime - connection as id 193
+[2018-12-23T11:08:05.164] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:08:38.137] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:22:37.128] [INFO] runtime - connection as id 195
+[2018-12-23T11:23:26.716] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:27:33.152] [INFO] runtime - connection as id 197
+[2018-12-23T11:28:03.648] [INFO] runtime - connection as id 198
+[2018-12-23T11:31:36.278] [INFO] runtime - connection as id 199
+[2018-12-23T11:33:52.025] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:34:00.435] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:34:26.999] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:34:48.181] [INFO] runtime - connection as id 201
+[2018-12-23T11:34:59.144] [INFO] runtime - connection as id 202
+[2018-12-23T11:35:10.927] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:35:14.920] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:35:17.244] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:35:21.811] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:35:25.361] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:37:49.333] [INFO] runtime - connection as id 204
+[2018-12-23T11:37:52.293] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:42:56.086] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T11:42:59.618] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T12:28:36.557] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T18:25:45.957] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T18:36:32.447] [INFO] runtime - connection as id 206
+[2018-12-23T19:21:10.116] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:21:22.739] [INFO] runtime - connection as id 208
+[2018-12-23T19:21:27.119] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:22:12.651] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:22:16.031] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:22:19.474] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:23:48.392] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:26:05.285] [INFO] runtime - connection as id 210
+[2018-12-23T19:26:08.817] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:26:12.727] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T19:26:48.274] [INFO] runtime - connection as id 212
+[2018-12-23T19:29:56.009] [INFO] runtime - connection as id 215
+[2018-12-23T19:30:05.556] [INFO] runtime - connection as id 216
+[2018-12-23T19:30:21.183] [INFO] runtime - connection as id 217
+[2018-12-23T19:37:26.947] [INFO] runtime - connection as id 218
+[2018-12-23T19:37:53.599] [INFO] runtime - connection as id 219
+[2018-12-23T19:38:34.186] [INFO] runtime - connection as id 220
+[2018-12-23T19:39:31.420] [INFO] runtime - connection as id 221
+[2018-12-23T19:41:20.154] [INFO] runtime - connection as id 222
+[2018-12-23T19:52:06.908] [INFO] runtime - connection as id 223
+[2018-12-23T19:53:29.550] [INFO] runtime - connection as id 224
+[2018-12-23T19:55:25.283] [INFO] runtime - connection as id 225
+[2018-12-23T19:55:29.863] [INFO] runtime - connection as id 226
+[2018-12-23T19:55:56.731] [INFO] runtime - connection as id 227
+[2018-12-23T19:56:45.656] [INFO] runtime - connection as id 228
+[2018-12-23T19:57:47.203] [INFO] runtime - connection as id 229
+[2018-12-23T19:57:55.236] [INFO] runtime - connection as id 230
+[2018-12-23T19:58:12.501] [INFO] runtime - connection as id 231
+[2018-12-23T19:58:35.904] [INFO] runtime - connection as id 232
+[2018-12-23T19:58:41.887] [INFO] runtime - connection as id 233
+[2018-12-23T19:59:05.306] [INFO] runtime - connection as id 234
+[2018-12-23T20:00:15.673] [INFO] runtime - connection as id 235
+[2018-12-23T20:02:10.538] [INFO] runtime - connection as id 236
+[2018-12-23T20:02:28.489] [INFO] runtime - connection as id 237
+[2018-12-23T20:04:04.077] [INFO] runtime - connection as id 238
+[2018-12-23T20:04:38.983] [INFO] runtime - connection as id 239
+[2018-12-23T20:04:58.280] [INFO] runtime - connection as id 240
+[2018-12-23T20:05:59.888] [INFO] runtime - connection as id 241
+[2018-12-23T20:06:08.652] [INFO] runtime - connection as id 242
+[2018-12-23T20:06:28.568] [INFO] runtime - connection as id 243
+[2018-12-23T20:06:45.137] [INFO] runtime - connection as id 244
+[2018-12-23T20:07:06.330] [INFO] runtime - connection as id 245
+[2018-12-23T20:07:36.680] [INFO] runtime - connection as id 246
+[2018-12-23T20:08:46.448] [INFO] runtime - connection as id 247
+[2018-12-23T20:09:49.118] [INFO] runtime - connection as id 248
+[2018-12-23T20:10:59.158] [INFO] runtime - connection as id 249
+[2018-12-23T20:12:15.251] [INFO] runtime - connection as id 250
+[2018-12-23T20:12:58.737] [INFO] runtime - connection as id 251
+[2018-12-23T20:13:26.016] [INFO] runtime - connection as id 252
+[2018-12-23T20:13:39.974] [INFO] runtime - connection as id 253
+[2018-12-23T20:14:10.407] [INFO] runtime - connection as id 254
+[2018-12-23T20:14:23.806] [INFO] runtime - connection as id 255
+[2018-12-23T20:14:46.305] [INFO] runtime - connection as id 256
+[2018-12-23T20:14:54.473] [INFO] runtime - connection as id 257
+[2018-12-23T20:17:09.909] [INFO] runtime - connection as id 258
+[2018-12-23T20:17:57.892] [INFO] runtime - connection as id 259
+[2018-12-23T20:18:00.795] [INFO] runtime - connection as id 260
+[2018-12-23T20:18:18.084] [INFO] runtime - connection as id 261
+[2018-12-23T20:18:30.840] [INFO] runtime - connection as id 262
+[2018-12-23T20:19:21.145] [INFO] runtime - connection as id 263
+[2018-12-23T20:19:35.987] [INFO] runtime - connection as id 264
+[2018-12-23T20:20:53.172] [INFO] runtime - connection as id 265
+[2018-12-23T20:21:21.467] [INFO] runtime - connection as id 266
+[2018-12-23T20:22:21.440] [INFO] runtime - connection as id 267
+[2018-12-23T20:22:33.914] [INFO] runtime - connection as id 268
+[2018-12-23T20:23:25.799] [INFO] runtime - connection as id 269
+[2018-12-23T20:24:04.475] [INFO] runtime - connection as id 270
+[2018-12-23T20:24:15.686] [INFO] runtime - connection as id 271
+[2018-12-23T20:24:52.562] [INFO] runtime - connection as id 272
+[2018-12-23T20:25:39.058] [INFO] runtime - connection as id 273
+[2018-12-23T20:30:59.137] [INFO] runtime - connection as id 274
+[2018-12-23T20:41:10.521] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:42:27.841] [INFO] runtime - connection as id 276
+[2018-12-23T20:42:35.380] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:43:20.294] [INFO] runtime - connection as id 278
+[2018-12-23T20:43:23.718] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:43:23.828] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:43:23.830] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:43:23.833] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:43:32.962] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:43:33.063] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:43:33.064] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:43:33.065] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:44:46.873] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:44:46.985] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:44:46.987] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:44:46.989] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:46:17.217] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:46:17.324] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:46:17.326] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:46:17.327] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:48:00.555] [INFO] runtime - connection as id 281
+[2018-12-23T20:48:23.456] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:48:23.609] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:48:23.614] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:48:23.617] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:50:13.311] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:50:13.420] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:50:13.424] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:50:13.480] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:52:16.280] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:52:16.403] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:52:16.405] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:52:16.407] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:52:16.442] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:53:17.599] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:53:17.600] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:53:17.602] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:53:17.758] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:05.312] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:05.313] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:05.315] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:07.021] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:54:07.126] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:07.127] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:07.129] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:50.800] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:54:50.910] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:50.912] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:50.914] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:54:50.939] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:55:25.969] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:55:25.972] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:55:25.975] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:55:26.130] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:56:16.808] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:56:16.809] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:56:16.810] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:56:16.984] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:01.636] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:01.639] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:01.641] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:01.790] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:05.268] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:58:37.699] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:37.700] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:37.702] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:37.907] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:38.117] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:58:47.633] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:47.635] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:47.636] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:47.789] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T20:58:47.945] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T20:59:02.881] [INFO] runtime - connection as id 284
+[2018-12-23T20:59:42.180] [INFO] runtime - connection as id 285
+[2018-12-23T20:59:56.399] [INFO] runtime - connection as id 286
+[2018-12-23T21:01:27.491] [INFO] runtime - connection as id 287
+[2018-12-23T21:02:01.194] [INFO] runtime - connection as id 288
+[2018-12-23T21:02:22.425] [INFO] runtime - connection as id 289
+[2018-12-23T21:02:27.042] [INFO] runtime - connection as id 290
+[2018-12-23T21:02:30.246] [INFO] runtime - connection as id 291
+[2018-12-23T21:02:42.415] [INFO] runtime - connection as id 292
+[2018-12-23T21:02:58.482] [INFO] runtime - connection as id 293
+[2018-12-23T21:03:09.514] [INFO] runtime - connection as id 294
+[2018-12-23T21:03:33.792] [INFO] runtime - connection as id 295
+[2018-12-23T21:04:18.884] [INFO] runtime - connection as id 296
+[2018-12-23T21:04:26.256] [INFO] runtime - connection as id 297
+[2018-12-23T21:04:34.927] [INFO] runtime - connection as id 298
+[2018-12-23T21:04:53.782] [INFO] runtime - connection as id 299
+[2018-12-23T21:05:22.143] [INFO] runtime - connection as id 300
+[2018-12-23T21:05:40.489] [INFO] runtime - connection as id 301
+[2018-12-23T21:06:39.213] [INFO] runtime - connection as id 302
+[2018-12-23T21:07:15.327] [INFO] runtime - connection as id 303
+[2018-12-23T21:08:21.145] [INFO] runtime - connection as id 304
+[2018-12-23T21:11:18.541] [INFO] runtime - connection as id 305
+[2018-12-23T21:33:32.138] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:33:32.141] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:33:32.156] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:33:32.291] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:33:32.496] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T21:41:31.902] [INFO] runtime - connection as id 308
+[2018-12-23T21:41:52.634] [INFO] runtime - connection as id 309
+[2018-12-23T21:42:11.481] [INFO] runtime - connection as id 310
+[2018-12-23T21:43:24.199] [INFO] runtime - connection as id 311
+[2018-12-23T21:43:54.328] [INFO] runtime - connection as id 312
+[2018-12-23T21:44:01.456] [INFO] runtime - connection as id 313
+[2018-12-23T21:44:21.227] [INFO] runtime - connection as id 314
+[2018-12-23T21:46:18.799] [INFO] runtime - connection as id 315
+[2018-12-23T21:47:15.932] [INFO] runtime - connection as id 316
+[2018-12-23T21:48:03.688] [INFO] runtime - connection as id 317
+[2018-12-23T21:48:37.037] [INFO] runtime - connection as id 318
+[2018-12-23T21:51:16.781] [INFO] runtime - connection as id 319
+[2018-12-23T21:51:25.360] [INFO] runtime - connection as id 320
+[2018-12-23T21:52:03.351] [INFO] runtime - connection as id 321
+[2018-12-23T21:52:48.074] [INFO] runtime - connection as id 322
+[2018-12-23T21:53:04.352] [INFO] runtime - connection as id 323
+[2018-12-23T21:53:28.573] [INFO] runtime - connection as id 324
+[2018-12-23T21:53:55.825] [INFO] runtime - connection as id 325
+[2018-12-23T21:54:04.221] [INFO] runtime - connection as id 326
+[2018-12-23T21:59:43.331] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:59:43.334] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:59:43.347] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:59:43.514] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T21:59:43.671] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T21:59:47.780] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T22:01:58.547] [INFO] runtime - connection as id 329
+[2018-12-23T22:02:03.863] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T22:02:48.779] [INFO] runtime - connection as id 331
+[2018-12-23T22:24:17.319] [INFO] runtime - connection as id 332
+[2018-12-23T22:24:20.331] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T22:49:09.418] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T22:55:52.000] [INFO] runtime - connection as id 334
+[2018-12-23T22:56:00.075] [INFO] runtime - connection as id 335
+[2018-12-23T22:56:21.026] [INFO] runtime - connection as id 336
+[2018-12-23T22:57:23.410] [INFO] runtime - connection as id 337
+[2018-12-23T22:58:29.462] [INFO] runtime - connection as id 338
+[2018-12-23T22:59:10.395] [INFO] runtime - connection as id 339
+[2018-12-23T22:59:42.206] [INFO] runtime - connection as id 340
+[2018-12-23T22:59:57.601] [INFO] runtime - connection as id 341
+[2018-12-23T23:00:17.319] [INFO] runtime - connection as id 342
+[2018-12-23T23:03:32.976] [INFO] runtime - connection as id 346
+[2018-12-23T23:04:00.530] [INFO] runtime - connection as id 347
+[2018-12-23T23:04:28.967] [INFO] runtime - connection as id 348
+[2018-12-23T23:04:51.610] [INFO] runtime - connection as id 349
+[2018-12-23T23:05:10.484] [INFO] runtime - connection as id 350
+[2018-12-23T23:05:28.957] [INFO] runtime - connection as id 351
+[2018-12-23T23:05:37.728] [INFO] runtime - connection as id 352
+[2018-12-23T23:05:46.980] [INFO] runtime - connection as id 353
+[2018-12-23T23:06:47.091] [INFO] runtime - connection as id 354
+[2018-12-23T23:07:37.677] [INFO] runtime - connection as id 355
+[2018-12-23T23:08:08.523] [INFO] runtime - connection as id 356
+[2018-12-23T23:08:38.638] [INFO] runtime - connection as id 357
+[2018-12-23T23:09:25.633] [INFO] runtime - connection as id 358
+[2018-12-23T23:12:00.653] [INFO] runtime - connection as id 359
+[2018-12-23T23:12:27.673] [INFO] runtime - connection as id 360
+[2018-12-23T23:12:30.420] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:12:30.425] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:12:33.088] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:12:33.091] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:12:54.752] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:12:54.757] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:12:56.077] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:12:56.080] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:12:57.690] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:12:57.693] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:13:16.064] [INFO] runtime - connection as id 362
+[2018-12-23T23:13:16.386] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:13:16.391] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:13:16.393] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:13:16.398] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:13:16.405] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:13:16.408] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:13:16.409] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:13:16.410] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:13:19.022] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:13:19.023] [ERROR] runtime - Error: ER_SP_UNDECLARED_VAR: Undeclared variable: ？
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:63:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-23T23:14:08.610] [INFO] runtime - connection as id 367
+[2018-12-23T23:14:08.632] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:08.635] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:08.643] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:08.823] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:08.964] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:09.072] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:11.431] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:14:27.731] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:16:38.846] [INFO] runtime - connection as id 370
+[2018-12-23T23:18:37.822] [INFO] runtime - connection as id 371
+[2018-12-23T23:18:53.729] [INFO] runtime - connection as id 372
+[2018-12-23T23:19:06.332] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:19:07.247] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:19:08.413] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:19:16.502] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:19:21.456] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:25:48.668] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:25:48.717] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:32:58.900] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:32:58.958] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:33:42.769] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:33:42.820] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:33:54.045] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:16.028] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T23:35:17.229] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:17.230] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:22.560] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-23T23:35:23.129] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:23.129] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:55.842] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-23T23:35:55.843] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }

@@ -1,0 +1,352 @@
+[2018-12-24T20:39:57.328] [INFO] runtime - connection as id 375
+[2018-12-24T20:42:38.482] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-24T20:42:38.658] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:38.661] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:38.664] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:38.748] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:48.684] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-24T20:42:49.639] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:49.647] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:52.452] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:42:54.723] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:01.515] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:03.933] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:05.400] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:06.285] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:08.807] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:10.953] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:19.905] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:39.334] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:44.631] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:43:47.635] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:44:02.373] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:45:10.435] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:45:11.643] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:45:14.597] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T20:47:29.614] [INFO] runtime - connection as id 378
+[2018-12-24T20:49:43.236] [INFO] runtime - connection as id 379
+[2018-12-24T20:49:58.680] [INFO] runtime - connection as id 380
+[2018-12-24T20:50:56.816] [INFO] runtime - connection as id 381
+[2018-12-24T20:51:57.008] [INFO] runtime - connection as id 382
+[2018-12-24T20:52:22.772] [INFO] runtime - connection as id 383
+[2018-12-24T20:52:59.183] [INFO] runtime - connection as id 384
+[2018-12-24T20:53:24.096] [INFO] runtime - connection as id 385
+[2018-12-24T21:00:51.662] [INFO] runtime - connection as id 391
+[2018-12-24T21:07:55.379] [INFO] runtime - connection as id 392
+[2018-12-24T21:10:23.735] [INFO] runtime - connection as id 393
+[2018-12-24T21:11:10.426] [INFO] runtime - connection as id 394
+[2018-12-24T21:11:47.806] [INFO] runtime - connection as id 395
+[2018-12-24T21:13:03.773] [INFO] runtime - connection as id 396
+[2018-12-24T21:14:45.644] [INFO] runtime - connection as id 397
+[2018-12-24T21:15:18.689] [INFO] runtime - connection as id 398
+[2018-12-24T21:15:36.356] [INFO] runtime - connection as id 399
+[2018-12-24T21:15:57.775] [INFO] runtime - connection as id 400
+[2018-12-24T21:31:33.817] [INFO] runtime - connection as id 401
+[2018-12-24T21:32:04.689] [INFO] runtime - connection as id 402
+[2018-12-24T21:34:12.662] [INFO] runtime - connection as id 403
+[2018-12-24T21:35:45.385] [INFO] runtime - connection as id 404
+[2018-12-24T21:37:07.599] [INFO] runtime - connection as id 405
+[2018-12-24T21:37:50.362] [INFO] runtime - connection as id 406
+[2018-12-24T21:38:03.019] [INFO] runtime - connection as id 407
+[2018-12-24T21:44:47.057] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:51.042] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.314] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.315] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.318] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.543] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.680] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:55.806] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:44:57.325] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:14.725] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:17.637] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:24.586] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:27.222] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:32.836] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:35.145] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:45:39.047] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:51:15.702] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:51:15.764] [ERROR] runtime - Error: ER_BAD_NULL_ERROR: Column 'parent_id' cannot be null
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:20:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-24T21:51:19.132] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:51:19.134] [ERROR] runtime - Error: ER_BAD_NULL_ERROR: Column 'parent_id' cannot be null
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:20:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-24T21:51:25.292] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:51:25.293] [ERROR] runtime - Error: ER_BAD_NULL_ERROR: Column 'parent_id' cannot be null
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\menuDao.js:20:18
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-24T21:53:15.774] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:17.020] [INFO] runtime - connection as id 410
+[2018-12-24T21:53:17.495] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:17.527] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:23.956] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:24.121] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:39.540] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:39.761] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:53:46.599] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:01.146] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:02.302] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:03.247] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:24.521] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:28.745] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:48.123] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:54:51.440] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:57:56.681] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:57:58.600] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:57:59.120] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:02.138] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:02.750] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:03.613] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:04.399] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:04.839] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:05.373] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:05.760] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:06.270] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:06.678] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:06.997] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:07.510] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:07.850] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:08.164] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:09.780] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:09.781] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:09.784] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:09.936] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:10.068] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:10.135] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:12.298] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:33.712] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:33.713] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:33.714] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:33.887] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:34.005] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:34.085] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:35.257] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:41.326] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:42.264] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:42.772] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:43.167] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:43.400] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:43.596] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:43.800] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:43.995] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:44.210] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T21:58:44.422] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:00.790] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:00.835] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:12.739] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:12.740] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:12.742] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:12.898] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:13.028] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:13.103] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:02:15.803] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:22:09.406] [INFO] runtime - connection as id 413
+[2018-12-24T22:23:31.298] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:31.343] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:34.303] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.012] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.013] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.016] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.168] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.321] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:40.399] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:42.177] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:43.881] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:23:44.338] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:24:15.317] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:24:15.365] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:24:17.438] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:24:19.697] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:24:22.181] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:25:30.229] [INFO] runtime - connection as id 416
+[2018-12-24T22:25:55.386] [INFO] runtime - connection as id 417
+[2018-12-24T22:25:58.949] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:26:01.388] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:26:44.382] [INFO] runtime - { methed: 'getElementsDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }
+[2018-12-24T22:26:50.709] [INFO] runtime - { methed: 'getMenusDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\menuDao.js' }

@@ -1,0 +1,295 @@
+[2018-12-19T21:36:01.641] [INFO] runtime - connection as id 659
+[2018-12-19T21:36:44.186] [INFO] runtime - connection as id 660
+[2018-12-19T21:37:01.546] [INFO] runtime - connection as id 661
+[2018-12-19T21:38:11.683] [INFO] runtime - connection as id 662
+[2018-12-19T21:38:22.534] [INFO] runtime - connection as id 663
+[2018-12-19T21:38:32.505] [INFO] runtime - connection as id 664
+[2018-12-19T21:45:29.358] [INFO] runtime - connection as id 665
+[2018-12-19T21:47:38.115] [INFO] runtime - { class: 'userDao', methed: 'loginDao' }
+[2018-12-19T21:48:56.372] [INFO] runtime - { class: 'userDao', methed: 'loginDao' }
+[2018-12-19T21:51:18.746] [INFO] runtime - connection as id 667
+[2018-12-19T22:02:18.670] [INFO] runtime - connection as id 668
+[2018-12-19T22:02:59.941] [INFO] runtime - connection as id 669
+[2018-12-19T22:03:36.160] [INFO] runtime - connection as id 670
+[2018-12-19T22:03:50.704] [INFO] runtime - connection as id 671
+[2018-12-19T22:04:34.311] [INFO] runtime - connection as id 672
+[2018-12-19T22:08:27.534] [INFO] runtime - connection as id 678
+[2018-12-19T22:09:02.634] [INFO] runtime - connection as id 679
+[2018-12-19T22:09:25.117] [INFO] runtime - connection as id 680
+[2018-12-19T22:09:43.105] [INFO] runtime - connection as id 681
+[2018-12-19T22:10:00.701] [INFO] runtime - connection as id 682
+[2018-12-19T22:10:18.723] [INFO] runtime - connection as id 683
+[2018-12-19T22:12:53.612] [INFO] runtime - connection as id 684
+[2018-12-19T22:54:08.010] [INFO] runtime - connection as id 685
+[2018-12-19T22:54:56.858] [INFO] runtime - connection as id 686
+[2018-12-19T22:55:08.386] [INFO] runtime - connection as id 687
+[2018-12-19T22:55:53.659] [INFO] runtime - connection as id 688
+[2018-12-19T23:06:19.870] [INFO] runtime - connection as id 689
+[2018-12-19T23:06:38.040] [INFO] runtime - connection as id 690
+[2018-12-19T23:09:52.726] [INFO] runtime - connection as id 691
+[2018-12-19T23:11:11.229] [INFO] runtime - connection as id 692
+[2018-12-19T23:11:51.357] [INFO] runtime - { methed: 'loginDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:11:55.898] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:11:55.922] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:13:40.062] [INFO] runtime - connection as id 694
+[2018-12-19T23:13:43.000] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:13:43.010] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:14:54.917] [INFO] runtime - connection as id 696
+[2018-12-19T23:14:58.850] [INFO] runtime - connection as id 697
+[2018-12-19T23:15:32.860] [INFO] runtime - connection as id 698
+[2018-12-19T23:17:34.230] [INFO] runtime - connection as id 699
+[2018-12-19T23:17:51.849] [INFO] runtime - connection as id 700
+[2018-12-19T23:19:46.451] [INFO] runtime - connection as id 701
+[2018-12-19T23:21:01.103] [INFO] runtime - connection as id 702
+[2018-12-19T23:21:33.063] [INFO] runtime - connection as id 703
+[2018-12-19T23:21:49.817] [INFO] runtime - connection as id 704
+[2018-12-19T23:21:58.702] [INFO] runtime - connection as id 705
+[2018-12-19T23:22:08.651] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:22:08.672] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:23:22.854] [INFO] runtime - connection as id 707
+[2018-12-19T23:23:28.731] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:23:28.738] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''200'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:24:05.886] [INFO] runtime - connection as id 709
+[2018-12-19T23:26:35.697] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:26:35.713] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:27:34.149] [INFO] runtime - connection as id 711
+[2018-12-19T23:27:36.924] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:27:36.932] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' ,'20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:29:15.877] [INFO] runtime - connection as id 713
+[2018-12-19T23:29:17.612] [INFO] runtime - connection as id 714
+[2018-12-19T23:29:22.870] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:29:22.888] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' ,'20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Handshake.onConnect (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Handshake._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Handshake.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:30:45.520] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:30:45.522] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' ,'20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:31:22.072] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:31:22.073] [ERROR] runtime - Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1' ,'20'' at line 1
+    at Query.Sequence._packetToError (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+    at Parser.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Parser.js:76:12)
+    at Protocol.write (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:200:25)
+    at C:\Users\www22\Desktop\project\firstonce\module\userDao.js:19:24
+    at C:\Users\www22\Desktop\project\firstonce\config\db.js:33:9
+    at Ping.onOperationComplete (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:502:10)
+    at Ping._callback (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\Connection.js:468:16)
+    at Ping.Sequence.end (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\www22\Desktop\project\firstonce\node_modules\mysql\lib\protocol\Protocol.js:278:23)
+[2018-12-19T23:32:41.818] [INFO] runtime - connection as id 716
+[2018-12-19T23:32:46.006] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:34:15.376] [INFO] runtime - connection as id 718
+[2018-12-19T23:35:23.892] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:30.391] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:31.614] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:34.349] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:35.384] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:36.763] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:35:37.916] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:36:14.630] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:37:19.807] [INFO] runtime - connection as id 720
+[2018-12-19T23:37:30.320] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:38:21.781] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:38:30.605] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:38:41.971] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
+[2018-12-19T23:39:52.403] [INFO] runtime - { methed: 'getListDao',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\module\\userDao.js' }
