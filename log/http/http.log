@@ -458,3 +458,399 @@
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
 [2018-12-25T23:35:15.995] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:32:49.073] [INFO] http - { method: '/login',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-26T21:32:49.228] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:32:49.230] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:32:49.279] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:39:57.988] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-26T21:39:59.119] [INFO] http - { method: '/menusTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:39:59.169] [INFO] http - { method: '/getElementList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:52:27.076] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:52:35.161] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:52:48.975] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:53:00.115] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-26T21:53:04.215] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:53:49.655] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:53:49.659] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:53:49.834] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T21:53:49.919] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:54:19.006] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T21:59:49.857] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:01:31.140] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:07:36.510] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:07:36.514] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:07:36.694] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:07:36.772] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:07:36.820] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:08:35.874] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:08:36.999] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:15:43.489] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:15:43.493] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:15:43.640] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:15:43.725] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:15:43.777] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:15:46.949] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:18:30.809] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:18:30.813] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:18:30.952] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:18:31.032] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:18:31.088] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:19:18.563] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:19:18.567] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:19:18.705] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:19:18.786] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:19:18.846] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:19:27.518] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:19:29.755] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:00.831] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:17.363] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:19.739] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:20:19.740] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:20:19.893] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:20:19.993] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:20.038] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:56.100] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:20:58.549] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:21:19.018] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:21:19.019] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:21:19.188] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-26T22:21:19.274] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:21:19.330] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:21:22.703] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-26T22:21:25.388] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:44:13.252] [INFO] http - { method: '/login',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-27T20:44:13.368] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:44:13.373] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:44:13.412] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:45:04.060] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:45:04.221] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:48:59.856] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:50:06.782] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:50:06.783] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:50:06.963] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:50:07.045] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:50:07.112] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:53:11.627] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:53:11.631] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:53:11.763] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:53:11.851] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:53:11.918] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:55:36.624] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:55:36.628] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:55:36.782] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T20:55:36.866] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T20:55:36.933] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:00:21.950] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:00:34.267] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:00:39.440] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:01:46.732] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:01:46.733] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:01:46.901] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:01:46.995] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:01:47.052] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:01:50.567] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:04:10.499] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:04:10.503] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:04:10.649] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:04:10.732] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:04:10.786] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:04:16.439] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:04:17.694] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:05:41.121] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:05:41.125] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:05:41.264] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:05:41.342] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:05:41.393] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:05:44.470] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:05:45.915] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:27:33.423] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:27:33.482] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:29:02.732] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:29:02.733] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:29:02.969] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T21:29:03.059] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T21:29:03.118] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:07:57.112] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:07:57.178] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:22:39.837] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:22:57.820] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:23:00.627] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:23:55.175] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:23:55.210] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:23:55.239] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:23:58.910] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:24:39.467] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:38:24.398] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:39:39.117] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:40:40.996] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:40:40.999] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:40:41.202] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:40:41.288] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:40:41.346] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:41:03.223] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:43:03.246] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:44:09.017] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:44:23.705] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:45:27.942] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:45:33.525] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:45:33.687] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:45:42.137] [INFO] http - { method: '/deleteMenu',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:45:42.386] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:46:26.185] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:46:26.206] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:48:35.727] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:48:38.336] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:50:16.761] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:50:16.820] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:15.445] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:26.230] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:28.888] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:29.671] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:29.910] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:53:30.126] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:55:26.241] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-27T22:55:27.116] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:55:27.118] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:55:27.323] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:55:34.071] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2018-12-27T22:55:40.674] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:55:40.790] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:55:48.207] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:57:33.181] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:57:37.004] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:57:37.005] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:57:37.146] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T22:57:37.243] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:57:37.295] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:57:45.031] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:58:30.067] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:58:35.380] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:59:32.552] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:59:35.661] [INFO] http - { method: '/updateGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T22:59:35.874] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:01:33.590] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:02:40.273] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:02:40.509] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:03.462] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:03.661] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:11.836] [INFO] http - { method: '/deleteMenu',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:11.946] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:17.718] [INFO] http - { method: '/deleteMenu',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:17.937] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:48.847] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:03:49.065] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:05:20.471] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:08:32.526] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:10:53.696] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T23:10:53.700] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T23:10:53.890] [INFO] http - { method: '/menuAndElement',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
+[2018-12-27T23:10:53.997] [INFO] http - { method: '/groupTypes',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:10:54.052] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:05.182] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:05.496] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:34.301] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:34.484] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:44.341] [INFO] http - { method: '/addGroup',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:44.539] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:56.175] [INFO] http - { method: '/deleteMenu',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:11:56.355] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:12:01.981] [INFO] http - { method: '/deleteMenu',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
+[2018-12-27T23:12:02.144] [INFO] http - { method: '/groupTree',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
