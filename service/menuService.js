@@ -12,60 +12,244 @@ const {
     addElementDao,
     updateElementDao,
     deleteElementDao,
-    getElementsByMenuidDao
+    getElementsByMenuidDao,
+    getElementByIdDao
 } = require('../module/menuDao');
+const {
+    getMenuAuthorityDao2,
+    getElementAuthorityDao2
+} = require('../module/roleDao');
+
+const {
+    getGroupsByUser
+} = require ('../module/userDao');
+
 const menuService = {
 
-    //登录的时候获取菜单和按钮
-    getMenuAndElementService: function (req, res) {
-        let task1 = function (fn) {
-            getMenusDao(function (err, results, filds) {
-                if (err) {
-                    logger.error(err.stack);
-                    console.log(err);
-                    res.status(200).json({
-                        code: 1000,
-                        msg: "获取菜单失败"
-                    })
-                } else {
-                    fn(err, results);
-                }
+    //登录的时候获取菜单和按钮(满足当前用户权限的)
+    //     getMenuAndElementService: function (req, res) {
+    //         let task1 = function (fn) {
+    //             getMenusDao(function (err, results, filds) {
+    //                 if (err) {
+    //                     logger.error(err.stack);
+    //                     console.log(err);
+    //                     res.status(200).json({
+    //                         code: 1000,
+    //                         msg: "获取菜单失败"
+    //                     })
+    //                 } else {
+    //                     fn(err, results);
+    //                 }
+    //             });
+    //         }
+
+    //         let task2 = function (fn) {
+    //             getElementsDao(function (err, results, filds) {
+    //                 if (err) {
+    //                     logger.error(err.stack);
+    //                     console.log(err);
+    //                     res.status(200).json({
+    //                         code: 1000,
+    //                         msg: "获取按钮失败"
+    //                     })
+    //                 } else {
+    //                     fn(err, results);
+    //                 }
+    //             });
+    //         }
+
+    //         async.series([task1, task2], function (err, values) {
+    //             if (err) {
+    //                 return;
+    //             }
+    //             const data = {
+    //                 menus: values[0],
+    //                 elements: values[1]
+
+    //             }
+    //             res.status(200).json({
+    //                 code: 0,
+    //                 msg: '获取成功',
+    //                 data
+    //             });
+    //         });
+    // },
+
+     //登录的时候获取菜单和按钮(满足当前用户权限的)
+     getMenuAndElementService: function (req, res) {
+        let userId = req.user.id;
+        //获取当前用户的所有角色
+        let task1 = function(fn){
+            getGroupsByUser(function (err, results, filds) {
+                fn(err,results);
+            },[userId])
+        }
+        let task2 = function (params,fn) {
+            params=params.map(function(item){
+                return item.group_id;
             });
+            //防止没有任何授权 程序报错
+            if(params&&params.length===0){
+                params.push('');
+            }
+            getMenuAuthorityDao2(function (err, results1, filds) {
+                let data={};
+                data.params=params;
+                // data.results=results;
+                // fn(err, data);
+                getMenusDao(function (err, results2, filds) {
+                    if (err) {
+                        logger.error(err.stack);
+                        console.log(err);
+                        res.status(200).json({
+                            code: 1000,
+                            msg: "获取菜单失败"
+                        })
+                    } else {
+                        let temp=[];
+                        results2.forEach(function(item){
+                           for(var i=0;i<results1.length;i++){
+                            if(item.id==results1[i].resource_id){
+                                temp.push(item);
+                                continue;
+                            }
+                           }
+                        });
+                        data.results=temp;
+                        fn(err, data);
+                    }
+                });
+            },params);
         }
 
-        let task2 = function (fn) {
-            getElementsDao(function (err, results, filds) {
-                if (err) {
-                    logger.error(err.stack);
-                    console.log(err);
-                    res.status(200).json({
-                        code: 1000,
-                        msg: "获取按钮失败"
-                    })
-                } else {
-                    fn(err, results);
+        let task3 = function (data,fn) {
+            getElementAuthorityDao2(function (err, results1, filds) {
+                // console.log(results);
+                const temp1 = {
+                    menus: data.results,
+                    // elements: results
                 }
-            });
+                // fn(err, temp);
+                getElementsDao(function (err, results2, filds) {
+                    if (err) {
+                        logger.error(err.stack);
+                        console.log(err);
+                        res.status(200).json({
+                            code: 1000,
+                            msg: "获取按钮失败"
+                        })
+                    } else {
+                        let temp=[];
+                        results2.forEach(function(item){
+                           for(var i=0;i<results1.length;i++){
+                            if(item.id==results1[i].resource_id){
+                                temp.push(item);
+                                continue;
+                            }
+                           }
+                        });
+                        temp1.elements=temp;
+                        fn(err, temp1);
+                    }
+                });
+            },data.params);
         }
 
-        async.series([task1, task2], function (err, values) {
-            if (err) {
-                return;
-            }
-            const data = {
-                menus: values[0],
-                elements: values[1]
-
-            }
-            res.status(200).json({
+        async.waterfall([task1, task2,task3], function (err, values) {
+           if(err){
+            logger.error(err.stack);
+            console.log(err);
+              return res.status(200).json({code:1000,msg:"发生了未知的错误"});
+           }
+           res.status(200).json({
                 code: 0,
                 msg: '获取成功',
-                data
+                data:values
             });
         });
     },
 
-    //登录的时候获取所有菜单
+    // 登录的时候获取所有菜单(满足当前用户权限的)
+    //     getRoleMenusService: function (req, res) {
+    //         getMenusDao(function (err, results, filds) {
+    //             if (err) {
+    //                 logger.error(err.stack);
+    //                 console.log(err);
+    //                 res.status(200).json({
+    //                     code: 1000,
+    //                     msg: '获取菜单失败'
+    //                 });
+    //             } else {
+    //                 var result = {}; //虚拟一个顶级节点
+    //                 result.id = -1; //虚拟顶级节点id为-1
+    //                 createMunus(result, results);
+    //                 res.status(200).json({
+    //                     code: 0,
+    //                     msg: '获取菜单成功',
+    //                     data: result.children
+    //                 });
+    //             }
+    //         });
+    // },
+
+    //登录的时候获取所有菜单(满足当前用户权限的)
+    getRoleMenusService: function (req, res) {
+        let userId = req.user.id;
+
+        // 获取当前用户的所有角色
+        let task1 = function(fn){
+            getGroupsByUser(function (err, results, filds) {
+                fn(err,results);
+            },[userId])
+        }
+        // 获取所有的授权角色的菜单
+        let task2 = function(params,fn){
+            //防止没有任何授权 程序报错
+            params=params.map(function(item){
+                return item.group_id;
+            });
+            if(params&&params.length===0){
+            params.push('');
+            }
+            getMenuAuthorityDao2(function (err, results, filds) {
+                fn(err,results);
+            },params)
+        }
+         // 获取所有的菜单
+        let task3 = function(params,fn){
+            getMenusDao(function (err, results, filds) {
+                let temp=[];
+                params.forEach(function(item){
+                   for(var i=0;i<results.length;i++){
+                    if(item.resource_id==results[i].id){
+                        temp.push(results[i]);
+                        continue;
+                    }
+                   }
+                });
+                var result = {}; //虚拟一个顶级节点
+                result.id = -1; //虚拟顶级节点id为-1
+                createMunus(result, temp);
+                fn(err,result);
+            })
+        }
+
+        async.waterfall([task1,task2,task3],function(err,values){
+            if(err){
+                logger.error(err.stack);
+                console.log(err);
+                return res.status(200).json({code:1000,msg:"发生了未知的错误"});
+            }
+            // console.log(values);
+            res.status(200).json({
+                code: 0,
+                msg: '获取菜单成功',
+                data: values.children
+            });
+        });
+    },
+
+    //分配权限的时候 获取所有菜单树
     getMenusService: function (req, res) {
         getMenusDao(function (err, results, filds) {
             if (err) {
@@ -174,6 +358,20 @@ const menuService = {
 
 
     },
+
+    //根据菜单id获取相应的按钮列表 不分页
+    getElementByIdService:function(req,res){
+        let menuId = req.query.menuId;
+        getElementByIdDao(function(err,results,filds){
+            if(err){
+                logger.error(err.stack); 
+                console.log(err);
+            }else{
+                res.status(200).json({code:0,msg:"按钮信息获取成功",data:results,total:results.length});
+            }
+        },[menuId]);
+    },
+    
 
      //添加按钮
      addElementService:function (req,res,user){

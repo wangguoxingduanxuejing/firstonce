@@ -9,10 +9,13 @@ const {
     addGroupService,
     updataGroupService,
     deleteGroupService,
-    getElementListService,
-    addElementService,
-    updataElementService,
-    deleteElementService
+    getMenuAuthorityService,
+    getElementAuthorityService,
+    removeAuthorityElementService,
+    addAuthorityElementService,
+    modifyMenuAuthorityService,
+    getUsersByGroupService,
+    updateUsersByGroupService
 } = require('../../service/roleService')
 
 //获取所有的权限类型
@@ -96,63 +99,61 @@ router.delete('/deleteGroup/:id', passport.authenticate('jwt', {
     }
 })
 
-//获取按钮列表
-router.get('/getElementList', passport.authenticate('jwt', {
+//获取已经授权的菜单列表
+router.get('/getMenuAuthority/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/getElementList',
+        method: '/getMenuAuthority',
         path: __filename
     });
     if (req.user) {
-        getElementListService(req, res);
+        getMenuAuthorityService(req, res);
     }
 })
 
-//获取菜单详细信息
-router.get('/getElementInfo/:id', passport.authenticate('jwt', {
+
+//获取已经授权的按钮列表
+router.get('/getElementAuthority/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/getElementInfo',
+        method: '/getElementAuthority',
         path: __filename
     });
     if (req.user) {
-        res.status(200).json({
-            code: 0,
-            msg: '接口调用正常'
-        });
+        getElementAuthorityService(req, res);
     }
 })
 
 //添加按钮权限
-router.post('/addElement', passport.authenticate('jwt', {
+router.get('/addAuthorityElement/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/addElement',
+        method: '/addAuthorityElement',
         path: __filename
     });
     if (req.user) {
-        addElementService(req, res, req.user);
+        addAuthorityElementService(req, res);
     }
 })
 
-//修改按钮信息
-router.put('/updateElement/:id', passport.authenticate('jwt', {
+//删除按钮权限
+router.delete('/removeAuthorityElement/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/updateElement',
+        method: '/removeAuthorityElement',
         path: __filename
     });
     if (req.user) {
-        updataElementService(req, res);
+        removeAuthorityElementService(req, res);
     }
 })
 
-//删除按钮
-router.delete('/deleteElement/:id', passport.authenticate('jwt', {
+//修改菜单权限
+router.post('/modifyMenuAuthority/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
@@ -160,7 +161,32 @@ router.delete('/deleteElement/:id', passport.authenticate('jwt', {
         path: __filename
     });
     if (req.user) {
-        deleteElementService(req, res);
+        modifyMenuAuthorityService(req, res);
+    }
+})
+
+//获取已经关联的用户包含两个领导和员工
+router.get('/getUsersByGroup/:id', passport.authenticate('jwt', {
+    session: false
+}), (req, res) => {
+    logger.info({
+        method: '/getUsersByGroup',
+        path: __filename
+    });
+    if (req.user) {
+        getUsersByGroupService(req, res);
+    }
+})
+//修改菜单权限
+router.get('/updateUsersByGroup/:id', passport.authenticate('jwt', {
+    session: false
+}), (req, res) => {
+    logger.info({
+        method: '/updateUsersByGroup',
+        path: __filename
+    });
+    if (req.user) {
+        updateUsersByGroupService(req, res);
     }
 })
 

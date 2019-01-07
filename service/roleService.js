@@ -9,10 +9,14 @@ const {
     addGroupDao,
     updateGroupDao,
     deleteGroupDao,
-    addElementDao,
-    updateElementDao,
-    deleteElementDao,
-    getElementsByMenuidDao
+    getMenuAuthorityDao,
+    getElementAuthorityDao,
+    addAuthorityElementDao,
+    removeAuthorityElementDao,
+    modifyMenuAuthorityDao,
+    getUsersByGroupDao,
+    updateUsersByGroupDao
+
 } = require('../module/roleDao');
 const roleService = {
 
@@ -125,42 +129,43 @@ const roleService = {
             }
         },[id]);
     },
-
-
-    //根据菜单id获取相应的按钮列表
-    getElementListService:function(req,res){
-        let page = req.query.page;
-        let limit=req.query.limit;
-        let menuId = req.query.menuId;
-        let name = req.query.name?'%'+req.query.name+'%':'%%';
-        getElementsByMenuidDao(function(err,results,filds){
+    // 根据角色id 获取已经授权的菜单权限
+    getMenuAuthorityService:function(req,res){
+       
+        let id = req.params.id;
+        getMenuAuthorityDao(function(err,results,filds){
             if(err){
                 logger.error(err.stack); 
                 console.log(err);
             }else{
-                res.status(200).json({code:1000,msg:"按钮信息获取成功",data:results,total:results.length});
+                res.status(200).json({code:1000,msg:"已经获得授权信息",data:results,total:results.length});
             }
-        },[menuId,name,parseInt(page) - 1, parseInt(limit)]);
-
-
+        },[id]);
     },
 
-     //添加按钮
-     addElementService:function (req,res,user){
-          // code,type,name,uri,menu_id,path,method,description,crt_time,crt_user,crt_name,crt_host
-        let code=req.body.code||'';
-        let name=req.body.name||'';
-        let menu_id=req.body.menu_id;
-        let uri=req.body.uri||'';
-        let method=req.body.method||'';
-        let type=req.body.type||'';
-        let description=req.body.description||'';
-        let path=req.body.path||'';
+    // 根据角色id 获取已经授权的按钮权限
+    getElementAuthorityService:function(req,res){
+        let id = req.params.id;
+        getElementAuthorityDao(function(err,results,filds){
+        if(err){
+            logger.error(err.stack); 
+            console.log(err);
+        }else{
+            res.status(200).json({code:0,msg:"已经获得授权信息",data:results,total:results.length});
+        }
+    },[id]);
+},
+
+     //添加按钮权限
+     addAuthorityElementService:function (req,res){
+        // authority_id,authority_type,resource_id,resource_type,parent_id,crt_user,crt_name,crt_host,crt_host
+        let id = req.params.id;
+        let elementId = req.query.elementId;
         let crt_time=new Date();
-        let crt_user=user.id;
-        let crt_name=user.name;
+        let crt_user=req.user.id;
+        let crt_name=req.user.name;
         let crt_host=req.hostname;
-        addElementDao(function(err,result){
+        addAuthorityElementDao(function(err,result){
             if(err){
                 logger.error(err.stack);
                 console.log(err);
@@ -168,35 +173,38 @@ const roleService = {
             if(result&&result.affectedRows===1){
                 res.status(200).json({code:0,msg:'添加成功'});
             }
-        },[code,type,name,uri,menu_id,path,method,description,crt_time,crt_user,crt_name,crt_host]);
+        },[id,elementId,crt_user,crt_name,crt_host,crt_time]);
         
     },
-    //修改按钮
-    updataElementService:function(req,res){
+    //修改菜单权限
+    modifyMenuAuthorityService:function(req,res){
+        let crt_time=new Date();
+        let crt_user=req.user.id;
+        let crt_name=req.user.name;
+        let crt_host=req.hostname;
         let id = req.params.id;
-        let code=req.body.code||'';
-        let name=req.body.name||'';
-        let menu_id=req.body.menu_id;
-        let uri=req.body.uri||'';
-        let method=req.body.method||'';
-        let type=req.body.type||'';
-        let description=req.body.description||'';
-        let path=req.body.path||'';
-        updateElementDao(function(err,result){
+        let menuTrees = req.query.menuTrees.split(',');
+        let data=menuTrees.map(function(item){
+            var temp=[id,'group',item,'menu',-1,crt_user,crt_name,crt_host,crt_time];
+            return temp;
+        });
+        modifyMenuAuthorityDao(function(err,result){
             if(err){
                 logger.error(err.stack);
                 console.log(err);
+                res.status(500).json({code:0,msg:'服务器错误'});
             }
-            if(result&&result.affectedRows==1){
+            if(result){
                 res.status(200).json({code:0,msg:'修改成功'});
             }
-        },[code,type,name,uri,menu_id,path,method,description,id]);
+        },{id,data});
 
     },
-    //删除按钮
-    deleteElementService:function (req,res){
+    //删除按钮权限
+    removeAuthorityElementService:function (req,res){
         let id = req.params.id;
-        deleteElementDao(function(err,result){
+        let elementId = req.query.elementId;
+        removeAuthorityElementDao(function(err,result){
             if(err){
                 logger.error(err.stack);
                 console.log(err);
@@ -204,8 +212,55 @@ const roleService = {
             if(result&&result.affectedRows===1){
                 res.status(200).json({code:0,msg:'删除成功'});
             }
-        },[id]);
+        },[id,elementId]);
     },
+
+    //获取已经关联的用户包含两个领导和员工
+    getUsersByGroupService:function(req,res){
+        let id = req.params.id;
+        getUsersByGroupDao(function(err,result){
+            if(err){
+                logger.error(err.stack);
+                console.log(err);
+                res.status(500).json({code:0,msg:'服务器错误'});
+            }
+            if(result){
+                res.status(200).json({code:0,data:result,msg:'陈宫获取到已关联用户'});
+            }
+        },id);
+
+    },
+
+    //修改菜单权限
+    updateUsersByGroupService:function(req,res){
+    let id = req.params.id;
+    let members = req.query.members?req.query.members.split(','):undefined;
+    let leaders = req.query.leaders?req.query.leaders.split(','):undefined;
+    // console.log(id,members,leaders);
+    let params ={};
+    if(members&&members.length>0){
+        params.members=members.map(function(item){
+            return [id,item];
+        });
+    }
+    if(leaders&&leaders.length>0){
+        params.leaders=leaders.map(function(item){
+            return [id,item];
+        });
+    }
+    updateUsersByGroupDao(function(err,result){
+        if(err){
+            logger.error(err.stack);
+            console.log(err);
+            res.status(500).json({code:0,msg:'服务器错误'});
+        }
+        if(result){
+            res.status(200).json({code:0,msg:'修改成功'});
+        }
+    },{id,params});
+
+    },
+   
 }
 
 /**内部方法递归挂载children子节点 */

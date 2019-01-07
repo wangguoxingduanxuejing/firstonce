@@ -4,18 +4,20 @@ const passport = require('passport');
 const logger = log4.getLogger('http');
 const router = express.Router();
 const {
-    getMenuAndElementService
-    ,getMenusService,
+    getMenuAndElementService,
+    getRoleMenusService,
+    getMenusService,
     addMenuService,
     updataMenuService,
     deleteMenuService,
     getElementListService,
+    getElementByIdService,
     addElementService,
     updataElementService,
     deleteElementService
 } = require('../../service/menuService')
 
-//登录的时候 获取菜单和按钮
+//登录的时候 获取菜单和按钮(满足当前用户权限的)
 router.get('/menuAndElement', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
@@ -28,20 +30,20 @@ router.get('/menuAndElement', passport.authenticate('jwt', {
     }
 });
 
-//登录的时候 获取所有菜单
+//登录的时候 获取所有菜单(满足当前用户权限的)
 router.get('/menus', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/menuAndElement',
+        method: '/menus',
         path: __filename
     });
     if (req.user) {
-        getMenusService(req,res);
+        getRoleMenusService(req,res);
     }
 })
 
-//获取菜单树
+//分配权限时获取菜单树
 router.get('/menusTree', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
@@ -116,6 +118,19 @@ router.get('/getElementList', passport.authenticate('jwt', {
     });
     if (req.user) {
         getElementListService(req,res);
+    }
+})
+
+//获取按钮列表不分页
+router.get('/getElementById', passport.authenticate('jwt', {
+    session: false
+}), (req, res) => {
+    logger.info({
+        method: '/getElementById',
+        path: __filename
+    });
+    if (req.user) {
+        getElementByIdService(req,res);
     }
 })
 
