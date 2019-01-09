@@ -1,1176 +1,414 @@
-[2019-01-06T21:55:57.682] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:34.675] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:04:45.919] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:04:46.072] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:04:46.084] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:05:33.997] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:05:34.104] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:05:34.109] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:05:58.063] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:05:58.192] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:34.677] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:05:58.200] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:18:55.767] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:18:55.881] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:34.859] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:18:55.884] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:35.054] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T00:07:38.806] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:19:55.647] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:19:55.762] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:38.807] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:19:55.777] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:38.955] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:20:44.727] [INFO] http - { method: '/login',
+[2019-01-08T00:07:39.100] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T00:07:42.803] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:20:44.835] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:20:44.890] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:44.616] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:24:18.982] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:24:19.111] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:44.617] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:24:19.122] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:44.770] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:25:58.896] [INFO] http - { method: '/login',
+[2019-01-08T00:07:44.906] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:25:59.023] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:25:59.037] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:26:52.811] [INFO] http - { method: '/login',
+[2019-01-08T00:07:49.918] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:26:52.935] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:50.092] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:26:52.943] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:28:56.179] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:28:56.361] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:07:50.104] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:28:56.373] [INFO] http - { method: '/menus',
+[2019-01-08T00:07:50.113] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:16.498] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:30:16.618] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:08:08.885] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:16.631] [INFO] http - { method: '/menus',
+[2019-01-08T00:08:08.885] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:16.683] [INFO] http - { method: '/menus',
+[2019-01-08T00:08:09.034] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:57.639] [INFO] http - { method: '/login',
+[2019-01-08T00:08:16.723] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:30:57.776] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:08:16.826] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:57.789] [INFO] http - { method: '/menus',
+[2019-01-08T00:08:16.828] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:30:57.909] [INFO] http - { method: '/menus',
+[2019-01-08T00:08:16.945] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:32:48.979] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:32:49.108] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:09:29.971] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:32:49.122] [INFO] http - { method: '/menus',
+[2019-01-08T00:09:29.972] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:32:49.177] [INFO] http - { method: '/menus',
+[2019-01-08T00:09:30.134] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:34:11.854] [INFO] http - { method: '/login',
+[2019-01-08T00:09:36.812] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:34:11.985] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:34:11.992] [INFO] http - { method: '/menus',
+[2019-01-08T00:09:36.915] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:34:12.082] [INFO] http - { method: '/menus',
+[2019-01-08T00:09:36.932] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:36:45.381] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:36:45.513] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:09:36.948] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:36:45.570] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:24.798] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:38:16.676] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:38:16.815] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:10:24.799] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:38:16.840] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:24.975] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:39:16.597] [INFO] http - { method: '/login',
+[2019-01-08T00:10:27.900] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:39:16.718] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:39:16.725] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:29.659] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:45:19.290] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:45:19.477] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:10:29.660] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:45:19.483] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:29.799] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:45:42.970] [INFO] http - { method: '/login',
+[2019-01-08T00:10:29.931] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:45:43.095] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:45:43.115] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:45:43.156] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:47:04.347] [INFO] http - { method: '/login',
+[2019-01-08T00:10:36.335] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:47:04.469] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:10:36.434] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:47:04.521] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:36.436] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:47:35.389] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:47:35.517] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:10:36.508] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:47:35.529] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:54.422] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:48:33.306] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:48:33.442] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:10:54.423] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:48:33.453] [INFO] http - { method: '/menus',
+[2019-01-08T00:10:54.583] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:52:13.908] [INFO] http - { method: '/login',
+[2019-01-08T00:11:00.626] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:52:14.028] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:11:00.735] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:52:14.045] [INFO] http - { method: '/menus',
+[2019-01-08T00:11:00.736] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:52:14.089] [INFO] http - { method: '/menus',
+[2019-01-08T00:11:00.829] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:54:43.154] [INFO] http - { method: '/login',
+[2019-01-08T00:11:03.455] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:54:43.286] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:11:06.266] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:54:43.291] [INFO] http - { method: '/menus',
+[2019-01-08T00:11:06.267] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:54:43.390] [INFO] http - { method: '/menus',
+[2019-01-08T00:11:06.408] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:55:16.527] [INFO] http - { method: '/login',
+[2019-01-08T00:11:06.544] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:55:16.650] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:13:13.212] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:55:16.679] [INFO] http - { method: '/menus',
+[2019-01-08T00:13:13.214] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:55:16.808] [INFO] http - { method: '/menus',
+[2019-01-08T00:13:13.369] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:55:46.357] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:56:06.143] [INFO] http - { method: '/login',
+[2019-01-08T00:13:13.511] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:58:14.438] [INFO] http - { method: '/login',
+[2019-01-08T00:13:19.563] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T22:58:14.580] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:58:14.585] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:58:14.662] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:59:51.878] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T00:13:19.674] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:59:51.888] [INFO] http - { method: '/menus',
+[2019-01-08T00:13:19.675] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T22:59:52.205] [INFO] http - { method: '/menus',
+[2019-01-08T00:13:19.759] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:32.558] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:32.903] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:33.734] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:33.737] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:33.741] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:01:33.870] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:03:22.119] [INFO] http - { method: '/login',
+[2019-01-08T20:30:42.617] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:03:22.233] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:03:22.240] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:03:22.354] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:09:45.869] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:09:45.877] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:09:46.154] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:40.932] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:40.946] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:41.035] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:41.077] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:41.403] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:41.636] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:46.342] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:46.352] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:10:46.576] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:26.336] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T20:30:42.722] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:26.343] [INFO] http - { method: '/menus',
+[2019-01-08T20:30:42.724] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:26.887] [INFO] http - { method: '/menus',
+[2019-01-08T20:30:42.757] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:26.901] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:26.914] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:11:27.077] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:50.952] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:50.960] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:51.238] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:56.820] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:56.823] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:21:57.064] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:27.573] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:27.577] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:27.844] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:33.074] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:24:36.942] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:36.997] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:24:38.059] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:24:38.145] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:24:49.308] [INFO] http - { method: '/userList',
+[2019-01-08T20:31:52.988] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:25:01.962] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T20:31:53.097] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:25:01.966] [INFO] http - { method: '/menus',
+[2019-01-08T20:31:53.099] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:25:02.197] [INFO] http - { method: '/menus',
+[2019-01-08T20:31:53.137] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:25:02.439] [INFO] http - { method: '/userList',
+[2019-01-08T20:32:05.447] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:25:09.240] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:25:09.333] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:25:11.108] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:25:11.151] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:26:05.045] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T21:06:59.906] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:08:07.508] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:05.052] [INFO] http - { method: '/menus',
+[2019-01-08T21:08:07.512] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:05.312] [INFO] http - { method: '/menus',
+[2019-01-08T21:08:07.681] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:05.468] [INFO] http - { method: '/groupTypes',
+[2019-01-08T21:08:07.830] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:20.471] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:34.425] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:37.497] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:41.139] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:47.562] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:09:59.988] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:10:01.222] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:26:05.552] [INFO] http - { method: '/groupTree',
+[2019-01-08T21:10:01.283] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:26:09.983] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:26:24.039] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:26:42.221] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:26:42.345] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:42.348] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:42.385] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:26:45.754] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:27:07.216] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:27:07.387] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:27:07.389] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:27:07.419] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:35:01.929] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:35:02.076] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:35:02.083] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:35:02.113] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:35:50.054] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:38:09.503] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:38:09.632] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:09.634] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:09.684] [INFO] http - { method: '/menus',
+[2019-01-08T21:10:02.475] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:23.063] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:38:23.185] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:23.192] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:23.239] [INFO] http - { method: '/menus',
+[2019-01-08T21:10:02.533] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:27.062] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:38:28.266] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:28.343] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:29.267] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:29.334] [INFO] http - { method: '/groupTree',
+[2019-01-08T21:10:03.701] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:33.670] [INFO] http - { method: '/groupTypes',
+[2019-01-08T21:10:03.745] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:33.725] [INFO] http - { method: '/groupTree',
+[2019-01-08T21:10:04.352] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:10:05.017] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:36.987] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:37.085] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:39.545] [INFO] http - { method: '/getElementById',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:39.581] [INFO] http - { method: '/getElementAuthority',
+[2019-01-08T21:10:05.065] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:38:56.376] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:38:56.493] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:56.494] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:38:56.527] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:39:01.694] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:39:05.990] [INFO] http - { method: '/menusTree',
+[2019-01-08T21:10:06.024] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:39:06.058] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:39:10.793] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:39:10.855] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:39:15.653] [INFO] http - { method: '/menusTree',
+[2019-01-08T21:10:06.025] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:39:15.736] [INFO] http - { method: '/getMenuAuthority',
+[2019-01-08T21:10:07.546] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:39:33.013] [INFO] http - { method: '/getMenuAuthority',
+[2019-01-08T21:10:07.571] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:39:45.817] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:10:11.054] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:13:10.108] [INFO] http - { method: '/add',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:13:10.286] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:13:20.334] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:08.989] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:13:20.389] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:19.914] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:13:23.390] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:24.166] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:13:24.041] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:27.675] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:13:34.094] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:13:46.883] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:13:47.128] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:14:16.298] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:14:16.451] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:14:49.460] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:14:49.644] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:15:09.299] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:15:09.433] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:15:57.411] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:15:57.579] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:16:01.667] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:16:01.824] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:16:33.899] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:16:34.108] [INFO] http - { method: '/List',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T21:28:00.768] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:31.929] [INFO] http - { method: '/getMenuAuthority',
+[2019-01-08T21:28:00.812] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:38.846] [INFO] http - { method: '/deleteElement',
+[2019-01-08T21:28:03.168] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:41.240] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:45.584] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:40:45.586] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:40:45.829] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:40:45.971] [INFO] http - { method: '/groupTypes',
+[2019-01-08T21:28:03.754] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:46.045] [INFO] http - { method: '/groupTree',
+[2019-01-08T21:28:07.646] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:48.568] [INFO] http - { method: '/userList',
+[2019-01-08T21:32:43.838] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T21:54:44.645] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-06T23:40:49.897] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:40:49.970] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:40:51.877] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:40:51.928] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:43:18.384] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T21:54:55.553] [INFO] http - { method: '/updateUser',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-08T21:54:55.760] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-08T21:55:04.235] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:18.390] [INFO] http - { method: '/menus',
+[2019-01-08T21:55:04.237] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:18.400] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T21:55:07.117] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:18.424] [INFO] http - { method: '/menus',
+[2019-01-08T21:55:09.457] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:18.872] [INFO] http - { method: '/menus',
+[2019-01-08T21:55:13.015] [INFO] http - { method: '/updateMenu',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:18.908] [INFO] http - { method: '/menus',
+[2019-01-08T21:55:13.242] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:43:19.220] [INFO] http - { method: '/groupTypes',
+[2019-01-08T21:55:25.633] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:43:19.474] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:48:07.465] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:48:07.470] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:48:07.736] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:48:07.901] [INFO] http - { method: '/groupTypes',
+[2019-01-08T21:55:25.676] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:48:07.972] [INFO] http - { method: '/groupTree',
+[2019-01-08T21:55:27.293] [INFO] http - { method: '/getUsersByGroup',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:50:28.095] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:55:33.519] [INFO] http - { method: '/getUsersByGroup',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:50:32.054] [INFO] http - { method: '/getUsersByGroup',
+[2019-01-08T21:55:38.512] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-08T21:55:40.321] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-08T21:55:48.402] [INFO] http - { method: '/updateUsersByGroup',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:50:36.714] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-06T23:50:36.785] [INFO] http - { method: '/getMenuAuthority',
+[2019-01-08T21:55:54.303] [INFO] http - { method: '/getUsersByGroup',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-06T23:50:53.458] [INFO] http - { method: '/deleteElement',
+[2019-01-08T21:55:57.582] [INFO] http - { method: '/updateUsersByGroup',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T00:01:18.824] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T00:01:18.836] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T00:04:06.545] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T00:04:06.555] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T00:05:16.003] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T00:05:16.007] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:05:24.485] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:05:24.600] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:05:24.622] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:05:24.628] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:16.305] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:10:16.415] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:16.417] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:16.447] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:53.614] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:10:53.724] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:53.726] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:10:53.759] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:12:44.913] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:12:45.022] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:12:45.025] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:12:45.061] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:13:17.261] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:13:17.388] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:13:17.390] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:13:17.435] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:14:17.123] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:14:17.250] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:14:17.252] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:14:17.286] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:20:58.093] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:20:58.206] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:20:58.209] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:20:58.255] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:22:41.181] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:22:41.294] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:22:41.296] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:22:41.317] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:01.423] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:23:01.529] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:01.530] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:01.563] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:27.979] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:23:28.093] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:28.095] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:23:28.117] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:24:47.754] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:24:47.866] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:24:47.870] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:26:37.382] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:26:37.494] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:26:37.497] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:26:37.528] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:27:03.850] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:27:03.980] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:27:04.030] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:27:04.042] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:28:35.014] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:28:35.130] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:28:35.133] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:28:35.161] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:32:04.870] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:32:05.024] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:32:05.027] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:32:05.052] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:34:45.940] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:34:46.085] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:34:46.087] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:34:46.124] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:37:43.539] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:37:43.701] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:37:43.708] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:37:43.742] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:05.232] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:45:05.354] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:05.359] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:05.392] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:23.892] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:23.896] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:24.096] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:43.645] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:45:43.754] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:43.823] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:45:43.833] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:49:42.533] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:49:42.637] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:49:42.641] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:49:42.682] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:52:26.473] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:52:26.601] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:52:26.604] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:52:26.644] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:56:36.609] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:56:36.733] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:56:36.737] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:56:36.786] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:57:19.318] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T20:57:19.435] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:57:19.439] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T20:57:19.500] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:04:45.095] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:04:45.226] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:04:45.231] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:04:45.264] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:04:50.879] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:04:59.968] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:00.029] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:02.262] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:10.603] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:11.613] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:44.470] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:05:44.577] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:44.579] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:05:44.613] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:06:03.036] [INFO] http - { method: '/login',
+[2019-01-08T23:42:15.594] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:06:03.138] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:06:03.199] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:06:03.211] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:10:54.704] [INFO] http - { method: '/login',
+[2019-01-08T23:42:36.700] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:10:54.832] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:10:54.836] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:11:47.236] [INFO] http - { method: '/login',
+[2019-01-08T23:45:11.077] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:11:47.352] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:45:11.359] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:11:47.357] [INFO] http - { method: '/menus',
+[2019-01-08T23:45:11.362] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:11:47.382] [INFO] http - { method: '/menus',
+[2019-01-08T23:45:11.682] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:12:12.234] [INFO] http - { method: '/login',
+[2019-01-08T23:45:27.525] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:12:12.337] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:45:30.712] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:12:12.339] [INFO] http - { method: '/menus',
+[2019-01-08T23:45:30.753] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:12:12.364] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:04.436] [INFO] http - { method: '/login',
+[2019-01-08T23:45:32.307] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:14:04.570] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:04.622] [INFO] http - { method: '/menus',
+[2019-01-08T23:45:36.055] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T23:45:43.258] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:04.630] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:09.162] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:14:34.833] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:34.909] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:38.412] [INFO] http - { method: '/menusTree',
+[2019-01-08T23:45:43.259] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:38.449] [INFO] http - { method: '/getMenuAuthority',
+[2019-01-08T23:45:45.030] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:43.233] [INFO] http - { method: '/deleteElement',
+[2019-01-08T23:45:45.301] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:46.075] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:45:45.956] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T23:45:49.069] [INFO] http - { method: '/update',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T23:45:49.383] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\groupTypeController.js' }
+[2019-01-08T23:45:51.092] [INFO] http - { method: '/list',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\gataLogController.js' }
+[2019-01-08T23:46:53.999] [INFO] http - { method: '/login',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-08T23:46:54.187] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:46.078] [INFO] http - { method: '/menus',
+[2019-01-08T23:46:54.242] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:46.252] [INFO] http - { method: '/menus',
+[2019-01-08T23:46:54.416] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:46.330] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:46.387] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:55.662] [INFO] http - { method: '/userList',
+[2019-01-08T23:46:58.675] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:14:57.016] [INFO] http - { method: '/menusTree',
+[2019-01-08T23:46:58.729] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:57.065] [INFO] http - { method: '/getElementList',
+[2019-01-08T23:46:58.793] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:14:58.021] [INFO] http - { method: '/groupTypes',
+[2019-01-08T23:47:00.087] [INFO] http - { method: '/groupTypes',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:14:58.061] [INFO] http - { method: '/groupTree',
+[2019-01-08T23:47:00.241] [INFO] http - { method: '/groupTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:15:05.202] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:15:05.234] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:15:13.304] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:15:17.962] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:15:17.965] [INFO] http - { method: '/menus',
+[2019-01-08T23:47:01.260] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:15:18.130] [INFO] http - { method: '/menus',
+[2019-01-08T23:47:01.261] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:15:18.267] [INFO] http - { method: '/userList',
+[2019-01-08T23:47:02.102] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:15:34.982] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:15:35.086] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:15:35.088] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:15:35.107] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:14.986] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:16:15.127] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:15.132] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:15.162] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:06.912] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:19.927] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:48:06.918] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:19.928] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:07.116] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:16:20.071] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:20:42.132] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:20:42.135] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:20:42.397] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:21:38.840] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:21:38.843] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:21:39.341] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:24:16.166] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:24:16.167] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:24:16.324] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:27:35.766] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:27:35.767] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:27:35.925] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:32:55.622] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:32:55.628] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:32:55.797] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:00.879] [INFO] http - { method: '/userList',
+[2019-01-08T23:48:18.387] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:33:08.877] [INFO] http - { method: '/login',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:33:08.992] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:48:18.696] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:08.993] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:18.743] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:09.042] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:18.941] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:13.168] [INFO] http - { method: '/userList',
+[2019-01-08T23:48:22.743] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:33:14.306] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:14.358] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:15.746] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:33:15.804] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:33:50.709] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:50.710] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:50.877] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:33:50.980] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:33:51.036] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:34:01.311] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:01.316] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:24.261] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:01.482] [INFO] http - { method: '/menus',
+[2019-01-08T23:48:24.309] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:01.581] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:34:01.659] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:34:17.165] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:58:14.957] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:17.166] [INFO] http - { method: '/menus',
+[2019-01-08T23:58:14.959] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:17.316] [INFO] http - { method: '/menus',
+[2019-01-08T23:58:15.175] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:34:17.392] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:34:17.444] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:10.089] [INFO] http - { method: '/menuAndElement',
+[2019-01-08T23:58:15.911] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:10.089] [INFO] http - { method: '/menus',
+[2019-01-08T23:58:15.921] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:10.252] [INFO] http - { method: '/menus',
+[2019-01-09T00:00:11.693] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:10.349] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:10.443] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:17.379] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:17.776] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:28.627] [INFO] http - { method: '/userList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:35:29.304] [INFO] http - { method: '/menusTree',
+[2019-01-09T00:00:11.708] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:29.355] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:00:13.192] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:29.936] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:29.965] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:35.642] [INFO] http - { method: '/userList',
+[2019-01-09T00:00:38.030] [INFO] http - { method: '/login',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:35:45.052] [INFO] http - { method: '/menusTree',
+[2019-01-09T00:00:42.162] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:45.053] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:46.346] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:46.411] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:35:48.465] [INFO] http - { method: '/menusTree',
+[2019-01-09T00:00:42.163] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:48.468] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:00:46.173] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:48.847] [INFO] http - { method: '/userList',
+[2019-01-09T00:04:45.949] [INFO] http - { method: '/userList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
-[2019-01-07T21:35:55.256] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:35:55.257] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:36:08.327] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:36:08.381] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:36:10.719] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:36:10.803] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:36:15.473] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:36:42.744] [INFO] http - { method: '/deleteElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:05.632] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:05.636] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:05.836] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:05.922] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:05.966] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:16.472] [INFO] http - { method: '/menusTree',
+[2019-01-09T00:04:46.919] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:16.519] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:21.345] [INFO] http - { method: '/deleteElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:24.762] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:24.763] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:24.933] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:25.016] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:25.096] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:30.403] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:30.448] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:35.240] [INFO] http - { method: '/deleteElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:39.443] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:39.444] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:39.605] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:39.682] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:39.725] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:38:59.483] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:38:59.552] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:39:05.530] [INFO] http - { method: '/deleteElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:39:09.038] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:39:09.039] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:39:09.193] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:39:09.262] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:39:09.313] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:44:43.467] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:44:43.511] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:04.795] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:10.092] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:14.760] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:17.953] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:20.429] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:45:20.460] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:24.469] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:28.470] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:45:33.480] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:47:28.476] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:47:34.456] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:47:34.457] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:47:34.653] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:47:34.736] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:47:34.772] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:47:38.068] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:47:38.104] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:47:44.687] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:49:08.894] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:49:08.952] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:50:34.651] [INFO] http - { method: '/addMenu',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:50:34.837] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:50:43.019] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:50:44.331] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:50:44.901] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:06.288] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:06.365] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:08.520] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:08.553] [INFO] http - { method: '/getMenuAuthority',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:12.814] [INFO] http - { method: '/deleteElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:16.236] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:16.237] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:16.394] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:16.481] [INFO] http - { method: '/groupTypes',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:16.529] [INFO] http - { method: '/groupTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\roleController.js' }
-[2019-01-07T21:51:27.892] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:27.957] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:29.545] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:51:47.386] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:10.403] [INFO] http - { method: '/updateMenu',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:10.605] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:16.442] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:16.443] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:16.603] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:16.727] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:16.801] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:43.059] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:43.060] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:43.217] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:43.351] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:52:43.421] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:53:02.943] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:55:13.140] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:58:19.617] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:59:06.628] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T21:59:53.279] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:04:46.964] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:01:26.971] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:01:30.170] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:01:55.434] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:01:59.346] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:02:15.137] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:02:45.154] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:03:00.586] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:21.136] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:21.137] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:21.288] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:21.421] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:21.497] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:04:29.004] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:20.890] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:20.941] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:26.174] [INFO] http - { method: '/menuAndElement',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:26.175] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:26.331] [INFO] http - { method: '/menus',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:26.470] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:26.540] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:30.554] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:10:31.995] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:11:05.330] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:11:05.332] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:26.155] [INFO] http - { method: '/menusTree',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:26.204] [INFO] http - { method: '/getElementList',
-  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:32.394] [INFO] http - { method: '/menuAndElement',
+[2019-01-09T00:05:39.933] [INFO] http - { method: '/userList',
+  path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\userController.js' }
+[2019-01-09T00:05:41.926] [INFO] http - { method: '/getElementList',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:32.395] [INFO] http - { method: '/menus',
+[2019-01-09T00:05:41.937] [INFO] http - { method: '/menusTree',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:32.546] [INFO] http - { method: '/menus',
+[2019-01-09T00:05:48.053] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:32.703] [INFO] http - { method: '/menusTree',
+[2019-01-09T00:05:48.055] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:32.777] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:05:48.241] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:12:37.195] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:06:51.339] [INFO] http - { method: '/menuAndElement',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:13:33.147] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:06:51.340] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }
-[2019-01-07T22:13:39.765] [INFO] http - { method: '/getElementList',
+[2019-01-09T00:06:51.543] [INFO] http - { method: '/menus',
   path: 'C:\\Users\\www22\\Desktop\\project\\firstonce\\routes\\api\\menuController.js' }

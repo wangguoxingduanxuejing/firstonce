@@ -18,6 +18,9 @@ const {
     updateUsersByGroupService
 } = require('../../service/roleService')
 
+const {
+    addGataLogService
+} = require('../../service/gataLogService');
 //获取所有的权限类型
 router.get('/groupTypes', passport.authenticate('jwt', {
     session: false
@@ -70,6 +73,7 @@ router.post('/addGroup', passport.authenticate('jwt', {
     });
     if (req.user) {
         addGroupService(req,res);
+        addGataLogService({menu:"角色权限管理",opt:"新增",uri:"/addGroup",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -83,6 +87,7 @@ router.put('/updateGroup/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         updataGroupService(req,res);
+        addGataLogService({menu:"角色权限管理",opt:"修改",uri:"/updateGroup",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -96,6 +101,7 @@ router.delete('/deleteGroup/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         deleteGroupService(req,res);
+        addGataLogService({menu:"角色权限管理",opt:"删除",uri:"/deleteMenu",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -136,6 +142,7 @@ router.get('/addAuthorityElement/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         addAuthorityElementService(req, res);
+        addGataLogService({menu:"按钮权限",opt:"新增",uri:"/addAuthorityElement",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -149,6 +156,7 @@ router.delete('/removeAuthorityElement/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         removeAuthorityElementService(req, res);
+        addGataLogService({menu:"按钮权限",opt:"删除",uri:"/removeAuthorityElement",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -157,11 +165,12 @@ router.post('/modifyMenuAuthority/:id', passport.authenticate('jwt', {
     session: false
 }), (req, res) => {
     logger.info({
-        method: '/deleteElement',
+        method: '/modifyMenuAuthority',
         path: __filename
     });
     if (req.user) {
         modifyMenuAuthorityService(req, res);
+        addGataLogService({menu:"菜单权限",opt:"修改",uri:"/modifyMenuAuthority",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -187,6 +196,7 @@ router.get('/updateUsersByGroup/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         updateUsersByGroupService(req, res);
+        addGataLogService({menu:"权限用户关联",opt:"修改",uri:"/updateUsersByGroup",hostNmae:req.hostname},req.user);
     }
 })
 

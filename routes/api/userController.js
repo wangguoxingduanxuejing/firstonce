@@ -6,6 +6,11 @@ const {
     updateUserService,
     deleteUserService
 } = require('../../service/userService');
+
+const {
+    addGataLogService
+} = require('../../service/gataLogService');
+
 const log4 = require('../../config/log');
 const passport = require('passport');
 
@@ -45,6 +50,7 @@ router.post('/userAdd', passport.authenticate('jwt', {
     });
     if (req.user) {
         addUserService(req, res, req.user);
+        addGataLogService({menu:"用户管理",opt:"新增",uri:"/userAdd",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -53,6 +59,7 @@ router.put('/updateUser/:id', passport.authenticate('jwt', {session: false}), (r
     logger.info({method: '/updateUser',path: __filename});
     if (req.user) {
         updateUserService(req,res,req.user);
+        addGataLogService({menu:"用户管理",opt:"修改",uri:"/updateUser",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -61,6 +68,7 @@ router.delete('/deleteUser/:id', passport.authenticate('jwt', {session: false}),
     logger.info({method: '/deleteUser',path: __filename });
     if (req.user) {
         deleteUserService(req,res);
+        addGataLogService({menu:"用户管理",opt:"删除",uri:"/deleteUser",hostNmae:req.hostname},req.user);
     }
 })
 

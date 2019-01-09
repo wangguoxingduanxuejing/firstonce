@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const {
     connection,
-    redisCli
+    // redisCli
 } = require('../../config/db');
 const passport = require('passport');
 //测试接口
@@ -84,11 +84,11 @@ router.get("/delete", (req, res) => {
 })
 router.get("/redis", (req, res) => {
 
-    redisCli.set('age', 100);
-    redisCli.set('name', 'lisi');
-    res.json({
-        mes: "success"
-    });
+    // redisCli.set('age', 100);
+    // redisCli.set('name', 'lisi');
+    // res.json({
+    //     mes: "success"
+    // });
 
 })
 

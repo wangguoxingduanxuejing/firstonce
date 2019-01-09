@@ -8,6 +8,8 @@ const passport = require('passport');
 const user = require("./routes/api/userController");
 const menu = require("./routes/api/menuController");
 const role = require("./routes/api/roleController");
+const groupType = require("./routes/api/groupTypeController");
+const gataLog = require("./routes/api/gataLogController");
 
 app.get('/',(req,res)=>{
     // res.send('Hellow World2');
@@ -26,6 +28,8 @@ require('./config/passport')(passport);
 app.use("/api/user",user);
 app.use("/api/menu",menu);
 app.use("/api/role",role);
+app.use("/api/groupType",groupType);
+app.use("/api/gataLog",gataLog);
 
 const port = process.env.PORT||5000;
 app.listen(port,(res,req)=>{

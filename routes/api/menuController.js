@@ -17,6 +17,10 @@ const {
     deleteElementService
 } = require('../../service/menuService')
 
+const {
+    addGataLogService
+} = require('../../service/gataLogService');
+
 //登录的时候 获取菜单和按钮(满足当前用户权限的)
 router.get('/menuAndElement', passport.authenticate('jwt', {
     session: false
@@ -79,6 +83,7 @@ router.post('/addMenu', passport.authenticate('jwt', {
     });
     if (req.user) {
         addMenuService(req,res,req.user);
+        addGataLogService({menu:"菜单管理",opt:"新增",uri:"/addMenu",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -92,6 +97,8 @@ router.put('/updateMenu/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         updataMenuService(req,res);
+        addGataLogService({menu:"菜单管理",opt:"修改",uri:"/undateMenu",hostNmae:req.hostname},req.user);
+        
     }
 })
 
@@ -105,6 +112,7 @@ router.delete('/deleteMenu/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         deleteMenuService(req,res);
+        addGataLogService({menu:"菜单管理",opt:"删除",uri:"/deleteMenu",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -157,6 +165,7 @@ router.post('/addElement', passport.authenticate('jwt', {
     });
     if (req.user) {
         addElementService(req,res,req.user);
+        addGataLogService({menu:"按钮操作",opt:"新增",uri:"/addElement",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -170,6 +179,7 @@ router.put('/updateElement/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         updataElementService(req,res);
+        addGataLogService({menu:"按钮操作",opt:"修改",uri:"/updateElement",hostNmae:req.hostname},req.user);
     }
 })
 
@@ -183,6 +193,7 @@ router.delete('/deleteElement/:id', passport.authenticate('jwt', {
     });
     if (req.user) {
         deleteElementService(req,res);
+        addGataLogService({menu:"按钮操作",opt:"删除",uri:"/deleteElement",hostNmae:req.hostname},req.user);
     }
 })
 

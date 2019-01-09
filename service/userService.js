@@ -130,7 +130,6 @@ const user = {
         //1 验证用户名是不是唯一的
         //2 密码加密
         //3 保存数据库
-        console.log(username,password,name,sex,description,crt_user,crt_name,crt_time,crt_host);
         let task1 = function (fn) {
             checkUserName(function (err, results) {
                 if (err) {
@@ -169,14 +168,13 @@ const user = {
                 addUserDao(function(err,result){
                     if(err){
                         console.log(err);
-                        logger.error(err.staxk);
+                        logger.error(err.stack);
                     }
                     fn(err,result);
                 },[username,password,name,sex,description,crt_user,crt_name,crt_time,crt_host]);
             }
         }
         async.waterfall([task1,task2,task3],function(err,result){
-            console.log(username,password,name,sex,description,crt_user,crt_name,crt_time,crt_host);
             if(err){
                 console.log(err);
                 logger.error(err.stack);

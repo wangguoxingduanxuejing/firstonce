@@ -34,15 +34,15 @@ let executeSql = fn=>{
     });
 }
 
-const redisCli = redis.createClient();
-redisCli.on('ready',err=>{
-    if(err){
-        logger.error(err.stack);
-    }
-})
+// const redisCli = redis.createClient();
+// redisCli.on('ready',err=>{
+//     if(err){
+//         logger.error(err.stack);
+//     }
+// })
 
 module.exports={
     connection,
-    redisCli,
+    // redisCli,
     executeSql
 }
