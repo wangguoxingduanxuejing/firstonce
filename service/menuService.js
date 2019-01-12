@@ -85,6 +85,7 @@ const menuService = {
             },[userId])
         }
         let task2 = function (params,fn) {
+            
             params=params.map(function(item){
                 return item.group_id;
             });
@@ -93,6 +94,9 @@ const menuService = {
                 params.push('');
             }
             getMenuAuthorityDao2(function (err, results1, filds) {
+                if(!results1){
+                    results1=[];//防止没有任何授权 程序报错 上线时用 try catch处理
+                }
                 let data={};
                 data.params=params;
                 // data.results=results;

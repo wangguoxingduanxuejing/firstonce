@@ -4,9 +4,9 @@ const log4 = require('../config/log');
 
 const logger = log4.getLogger('runtime');
 const connection = mysql.createConnection({ //配置连接参数
-    host: 'localhost',
-    user: 'root',
-    password: 'root',
+    host: 'firstonce.cn',
+    user: 'test',
+    password: '123456',
     database: 'firstonce',
     port:'3306'
 });
@@ -20,9 +20,9 @@ connection.connect(function(err){
 
 let pool = mysql.createPool({ //配置连接参数
     connectionLimit : 10,
-    host: 'localhost',
-    user: 'root',
-    password: 'root',
+    host: 'firstonce.cn',
+    user: 'test',
+    password: '123456',
     database: 'firstonce',
     port:'3306'
 });
